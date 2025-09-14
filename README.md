@@ -1,6 +1,6 @@
 ## Hello, world! Eu sou o Gustavo.👋
 
-- 🌱 Estudo C#
+- 🌱 Estudo Python
 - 📫 Contate-me no email: gustavoborba632@gmail.com
 - 😄 Pronomes: Ele/Dele
 
@@ -14,4 +14,6 @@
   <img align="center" alt=Gustavo-Mysql height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt=Gustavo-Python height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
   <img align="center" alt=Gustavo-Flutter height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" alt=Gustavo-Javascript height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt=Gustavo-php height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
 </div>
