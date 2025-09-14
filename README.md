@@ -11,7 +11,7 @@
 </div>
 
 </div>
-  <img align="center" alt=Gustavo-Mysql height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt=Gustavo-Flutter height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt=Gustavo-Python height="80" width="120" >
+  <img align="center" alt=Gustavo-Mysql height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt=Gustavo-Python height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt=Gustavo-Flutter height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
 </div>
