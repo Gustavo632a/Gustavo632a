@@ -1,6 +1,7 @@
 ## Hello, world! Eu sou o Gustavo.👋
 
 - 🌱 Estudo Python
+- 💻 Faço sites
 - 📫 Contate-me no email: gustavoborba632@gmail.com
   
 </div>
