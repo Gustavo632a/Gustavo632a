@@ -1,7 +1,7 @@
 ## Hello, world! Eu sou o Gustavo.👋
 
-- 🌱 Estudo Python
-- 💻 Faço sites
+- 🌱 Estudo React
+- 💻 Crio landing pages
 - 📫 Contate-me no email: gustavoborba632@gmail.com
   
 </div>
