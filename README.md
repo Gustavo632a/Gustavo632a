@@ -19,4 +19,25 @@
   <img align="center" alt=Gustavo-Javascript height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt=Gustavo-php height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 </div>  
+<br>
 
+<div align="center">
+
+### 🐍 Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gustavo632a/Gustavo632a/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gustavo632a/Gustavo632a/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Gustavo632a/Gustavo632a/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
